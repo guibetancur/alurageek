@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles/reset.css">
+  <link rel="stylesheet" href="styles/style.css">
+  <title>AluraGeek</title>
+</head>
+<body>
+  <header class="header">
+    <h1>AluraGeek</h1>
+  </header>
+  <main class="main-container">
+    <section id="section-products">
+      <h3>Mis Productos</h3>
+      <div data-product class="products-container">
+      </div>
+    </section>
+
+    <section class="section-form">
+      <h3>Agregar Producto</h3>
+      <form action="POST" class="form-container" data-form>
+        <input data-name placeholder="nombre..." type="text">
+        <input data-price placeholder="precio..." type="text">
+        <input data-image placeholder="imagen..." type="text">
+
+        <div class="button-container">
+          <button type="submit" class="button-submit">Enviar...</button>
+          <button type="reset" class="button-clear">Limpiar...</button>
+        </div>
+      </form>
+    </section>
+  </main>
+  <footer class="footer-container"></footer>
+  <script type="module" src="js/controllers/main.js"></script>
+</body>
+</html>

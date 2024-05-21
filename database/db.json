@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "name": "Dart Vader",
+      "price": 50,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_975969-MLA46467090682_062021-O.webp",
+      "id": "1"
+    },
+    {
+      "name": "Flash",
+      "price": 25,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_643523-MLA49180554005_022022-O.webp",
+      "id": "2"
+    },
+    {
+      "name": "batman",
+      "price": 35,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_640262-MCO47330060660_092021-O.webp",
+      "id": "3"
+    },
+    {
+      "name": "barman",
+      "price": 32,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_640262-MCO47330060660_092021-O.webp",
+      "id": "4"
+    },
+    {
+      "name": "Dart Vader",
+      "price": 50,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_975969-MLA46467090682_062021-O.webp",
+      "id": "1"
+    },
+    {
+      "name": "Flash",
+      "price": 25,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_643523-MLA49180554005_022022-O.webp",
+      "id": "2"
+    },
+    {
+      "name": "batman",
+      "price": 35,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_640262-MCO47330060660_092021-O.webp",
+      "id": "3"
+    },
+    {
+      "name": "barman",
+      "price": 32,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_640262-MCO47330060660_092021-O.webp",
+      "id": "4"
+    },
+    {
+      "id": "1dc0",
+      "name": "Guillermo",
+      "price": "Betancur",
+      "image": "asdfadf"
+    },
+    {
+      "id": "043e",
+      "name": "asdfasdf",
+      "price": "asdfasdf",
+      "image": "asdfasdf"
+    },
+    {
+      "id": "e3af",
+      "name": "asdfadsf",
+      "price": "asdfasdf",
+      "image": "asdfasdf"
+    }
+  ]
+}

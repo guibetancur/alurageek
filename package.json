@@ -1,0 +1,16 @@
+{
+  "name": "alurageek",
+  "version": "1.0.0",
+  "description": "Alura Geek",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch ./database/db.json --port 3000"
+  },
+  "keywords": [
+    "alura",
+    "geek",
+    "practica"
+  ],
+  "author": "Guillermo Betancur",
+  "license": "ISC"
+}
