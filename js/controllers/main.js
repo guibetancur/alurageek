@@ -24,6 +24,7 @@ function createCard(name, price, image, id) {
           </div>
           `
   productContainer.appendChild(card)
+  debugger
   return card
 }
 
@@ -36,7 +37,7 @@ eraser.forEach(btn => {
 
 // xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 async function deleteCard(id) {
-  await conexionAPI.deleteProduct(id);
+  await deleteProduct(id);
   window.location.href = "../index.html";
 }
 

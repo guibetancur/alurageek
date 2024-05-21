@@ -28,7 +28,8 @@ const createProduct = (name, price, image) => {
 }
 
 const deleteProduct = (id) => {
-  return fetch("http://localhost:3000/products/"+`${id}`, {
+  debugger
+  return fetch(`${BASE_URL}/${id}`, {
     method: "DELETE",
     headers: {
       "Content-Type": "application/json",
