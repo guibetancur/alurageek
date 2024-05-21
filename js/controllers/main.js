@@ -24,7 +24,6 @@ function createCard(name, price, image, id) {
           </div>
           `
   productContainer.appendChild(card)
-  debugger
   return card
 }
 
@@ -67,7 +66,6 @@ const render = async () => {
     console.log(error);
   } 
   // finally {
-    // debugger
     // eraser = document.querySelectorAll("[data-id]")
     // eraser = document.getElementsByClassName("delete-button")
     // console.log(eraser);

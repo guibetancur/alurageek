@@ -47,24 +47,6 @@
       "price": 32,
       "image": "https://http2.mlstatic.com/D_NQ_NP_640262-MCO47330060660_092021-O.webp",
       "id": "4"
-    },
-    {
-      "id": "1dc0",
-      "name": "Guillermo",
-      "price": "Betancur",
-      "image": "asdfadf"
-    },
-    {
-      "id": "043e",
-      "name": "asdfasdf",
-      "price": "asdfasdf",
-      "image": "asdfasdf"
-    },
-    {
-      "id": "e3af",
-      "name": "asdfadsf",
-      "price": "asdfasdf",
-      "image": "asdfasdf"
     }
   ]
 }

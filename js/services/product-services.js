@@ -28,7 +28,6 @@ const createProduct = (name, price, image) => {
 }
 
 const deleteProduct = (id) => {
-  debugger
   return fetch(`${BASE_URL}/${id}`, {
     method: "DELETE",
     headers: {
@@ -40,7 +39,6 @@ const deleteProduct = (id) => {
     .catch(err => console.log(err))
 }
 // const deleteProduct = async (id) => {
-//   debugger
 //   try {
 //     const conexion = await fetch(`${BASE_URL}/${id}`, {
 //       method: "DELETE",
